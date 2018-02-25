@@ -1,0 +1,2 @@
+# Online-Car-Hiring
+This application is developed by using ASP.NET with the SQL SERVER EXPRESS 2008 as the database management system. The methodology used to develop this system as a whole is Object Oriented Analysis and Design; whilst, the database for this project is developed by following the steps in Database Life Cycle. The Online Car Hiring System is gaining more importance as the number of its users are increasing rapidly. The transactions like login, register, book a car, modification are provided. 
